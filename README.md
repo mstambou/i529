@@ -3,7 +3,7 @@ It contains the materials covered in the lab sessions.
 
   * [Main course webpage](http://homes.sice.indiana.edu/classes/spring2019/info/i529-yye/index.php)
   * [Yuzhen Ye](http://homes.soic.indiana.edu/yye/lab/index.php)
-  * [Moses Stamboulian] (TA)
+  *  Moses Stamboulian (TA)
 
 
 ### Topics
