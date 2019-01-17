@@ -1,15 +1,15 @@
-This is the repository for the lab module of the **Machine Learning for Bioinformatics** course as thought in the Spring of 2018.
+This is the repository for the lab module of the **Machine Learning for Bioinformatics** course as thought in the Spring of 2019.
 It contains the materials covered in the lab sessions.
 
-  * [Main course webpage](http://homes.soic.indiana.edu/classes/spring2018/info/i529-yye/index.php)
+  * [Main course webpage](http://homes.sice.indiana.edu/classes/spring2019/info/i529-yye/index.php)
   * [Yuzhen Ye](http://homes.soic.indiana.edu/yye/lab/index.php)
-  * [Murat Ozturk](http://littleblack.fish) (TA)
+  * [Moses Stamboulian] (TA)
 
 
 ### Topics
 
-  * [Computing resources](computing/) at IU *(week 1)*
-  * [Introduction to R](R-intro/) *(week 2)*
+  * [No Lab] *(week 1)*
+  * [Introduction to R & clustering](R-intro/) *(week 2)*
   * **Hidden Markov Models**
     * [Finding genes with Glimmer](Glimmer/) *(week 3)*
     * [Viterbi algorithm](viterbi/) *(week 4)*
